@@ -2,6 +2,9 @@
 
 I'm a *Web QA* and I decided to change my life. So I decided to plunge into the world of web development.
 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/veronica-popova/), [freebird130188@gmail.com](freebird130188@gmail.com)
+
+
 <!--
 **Nika1301/Nika1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
