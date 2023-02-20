@@ -7,7 +7,9 @@ I'm a *Web Quality Assurance Engineer* and I have made the decision to change my
 Now I am a student of Web Development in the NeueFische Camp. 
 
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/veronica-popova/), [freebird130188@gmail.com](mailto:freebird130188@gmail.com)
+📫 How to reach me: 
+
+[![Linkedin](https://img.shields.io/badge/%20-LinkedIn-090909?style=for-the-end-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/veronica-popova/)  [![Email](https://img.shields.io/badge/%20-Email-090909?style=for-the-end-badge&logo=email&logoColor=007BB6)](mailto:freebird130188@gmail.com)
 
 
 
