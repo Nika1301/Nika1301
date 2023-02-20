@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
 
-I'm a *Web QA* and I have made the decision to change my life. So I decided to plunge into the world of web development.
+My name is Veronika.
+
+I'm a *Web Quality Assurance Engineer* and I have made the decision to change my life. So I decided to plunge into the world of web development. 
+
+Now I am a student of Web Development in the NeueFische Camp. 
 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/veronica-popova/), [freebird130188@gmail.com](mailto:freebird130188@gmail.com)
+
 
 
 <!--
