@@ -2,7 +2,6 @@
 
 I'm a *Web QA* and I decided to change my life. So I decided to plunge into the world of web development.
 
-![code-matrix](https://www.shutterstock.com/shutterstock/photos/740523562/display_1500/stock-vector-abstract-futuristic-cyberspace-with-binary-code-matrix-background-with-digits-well-organized-740523562.jpg)
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/veronica-popova/)
 
