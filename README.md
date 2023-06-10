@@ -2,7 +2,7 @@
 
 My name is Veronika.
 
-I'm a highly motivated *Junior Web Developer*
+I like to learn new 🌱
  
 📫 How to reach me: 
 
